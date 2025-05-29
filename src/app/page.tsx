@@ -52,13 +52,13 @@ export default function HomePage() {
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
                     />
                     <StorefrontItem
-                        number="01"
+                        number="02"
                         title="Neural Spore Tank"
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
                         mirrored
                     />
                     <StorefrontItem
-                        number="01"
+                        number="03"
                         title="Neural Spore Tank"
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
                     />
