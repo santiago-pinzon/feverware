@@ -62,17 +62,19 @@ export default function HomePage() {
                         number="01"
                         title="Neural Spore Tank"
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
-                    />
+                        price={25.99} />
                     <StorefrontItem
                         number="02"
                         title="Neural Spore Tank"
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
                         mirrored
+                        price={25.99}
                     />
                     <StorefrontItem
                         number="03"
                         title="Neural Spore Tank"
                         description="An AI-simulated mycelium dream growing in stabilized magnetic substrate. Tap to preview ecosystem."
+                        price={25.99}
                     />
                 </div>
             </div>
