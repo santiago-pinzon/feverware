@@ -118,10 +118,10 @@ export default function StorefrontItem({
                                 dy=".1em"
                                 textAnchor="middle"
                                 alignmentBaseline="middle"
-                                fontSize="60"
+                                fontSize="40"
                                 fontWeight="bold"
                                 stroke="black"
-                                strokeWidth="4"
+                                strokeWidth="3"
                                 fill="black"
                                 fontFamily="monospace"
                             >
